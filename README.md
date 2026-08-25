@@ -29,32 +29,50 @@ An AI-powered **health and lifestyle companion** concept focused on personalized
 
 ⭐ **More projects and experiments are available across my GitHub repositories.**
 
-## 💻 Tech Stack
+## 🛠️ Tech Stack
 
-**Languages**
+### 👨‍💻 Programming
+- Python
+- Java
+- C
+- C++
+- SQL
 
-Python • Java • C • C++
-
-**Machine Learning & Data**
-
-Pandas • NumPy • Scikit-learn • Matplotlib • Seaborn
-
-**Web & Tools**
-
-Streamlit • Git • GitHub • VS Code
-
----
-
-## 🎯 Currently Learning
-
-- Data Structures & Algorithms
+### 🤖 AI & Machine Learning
 - Machine Learning
 - Data Science
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+- Seaborn
+
+### 🌐 Web Development
+- HTML
+- CSS
+- JavaScript
+- React
+- Streamlit
+
+### 🗄️ Databases
+- MySQL
+- SQL
+
+### 🔧 Tools & Platforms
+- Git
+- GitHub
+- VS Code
+- Jupyter Notebook
+- Kaggle
+- Streamlit Cloud
+
+### 📚 Currently Learning
+- Data Structures & Algorithms
+- Advanced Machine Learning
+- Generative AI
 - Full-Stack Development
-- AI Application Development
-
----
-
+- System Design
+- 
 ## 📌 Goals
 
 Build impactful real-world projects, strengthen my software engineering skills, and develop practical AI/ML solutions.

@@ -8,24 +8,26 @@ I enjoy building practical projects that combine data, machine learning, and web
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
 ### 📊 Customer Churn Predictor
+Machine learning web application that predicts customer churn using **Logistic Regression, Python, and Streamlit**, with analytics, model evaluation, and an interactive prediction interface.
 
-An end-to-end machine learning application that predicts telecom customer churn using **Logistic Regression, Scikit-learn, Pandas, and Streamlit**.
+🔗 [GitHub Repository](https://github.com/Gopi-banoth/customer-churn-predictor)  
+🌐 [Live Demo](https://customer-churn-predictor-jdecwk3plakufdskycuvzh.streamlit.app/)
 
-**Highlights:**
-- 🤖 Logistic Regression & Random Forest comparison
-- 🎯 Probability threshold optimization
-- 📈 ROC-AUC: **0.835**
-- 🔄 5-Fold Cross-Validation
-- 📊 Interactive business analytics
-- 🌐 Deployed with Streamlit
+### 🎓 EduLite
+An **AI-powered personalized learning companion** designed to identify learning gaps and provide adaptive remediation, practice, and personalized learning support.
 
-🔗 **[View Project on GitHub](https://github.com/Gopi-banoth/customer-churn-predictor)**  
-🚀 **[Live Demo](https://customer-churn-predictor-jdecwk3plakufdskycuvzh.streamlit.app/)**
+### 🌱 Saram Hydroponics
+A hydroponics-focused platform aimed at helping farmers with **system selection, installation, consultation, maintenance, repairs, training, and farming support**.
+
+### 🤖 mr.hard
+An AI-powered **health and lifestyle companion** concept focused on personalized nutrition, fitness, hydration, sleep, recovery, analytics, and AI-driven recommendations.
 
 ---
+
+⭐ **More projects and experiments are available across my GitHub repositories.**
 
 ## 💻 Tech Stack
 

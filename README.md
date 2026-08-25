@@ -73,6 +73,23 @@ An AI-powered **health and lifestyle companion** concept focused on personalized
 - Full-Stack Development
 - System Design
 - 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Gopi-banoth&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gopi-banoth&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
+</div>
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Gopi-banoth&theme=tokyonight&hide_border=true" />
+
+</div>
 ## 📌 Goals
 
 Build impactful real-world projects, strengthen my software engineering skills, and develop practical AI/ML solutions.
